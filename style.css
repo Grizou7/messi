@@ -1,0 +1,168 @@
+h1{background:rgb(127, 11, 223);
+  color: aliceblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+  text-align: center;
+  border-style:dashed;
+}
+
+body{background-image:url(img/fondo.avif);
+}
+
+.nav1{background:rgb(127, 11, 223);
+    color: aliceblue;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: justify;
+    border-style:dashed;
+    width: 48%;
+    height: 355px;
+    margin: 2px;
+    text-align: justify;
+    font-family:  cursive;
+    position: relative;
+    left: 50%;   
+}
+
+.nav2{background:rgb(127, 11, 223);
+    color: aliceblue;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: justify;
+    border-style:dashed;
+    width: 550px;
+    height: 50%;
+    margin: auto;
+    text-align: justify;
+    font-family:  cursive;
+    position: relative;
+    left: 22%;   
+}
+
+.nav3{background:rgb(127, 11, 223);
+    color: aliceblue;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: justify;
+    border-style:dashed;
+    width: 48%;
+    height: 50%;
+    margin: auto;
+    text-align: justify;
+    font-family:  cursive;
+    position: relative;
+    left: 25%;   
+}
+
+.nav4{background:rgb(127, 11, 223);
+    color: aliceblue;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: justify;
+    border-style:dashed;
+    width: 650px;
+    height: 50%;
+    margin: auto;
+    text-align: justify;
+    font-family:  cursive;
+    position: relative;
+    left: 25%;   
+}
+
+
+.indice{text-align: center; 
+} /* centré el titulo del indice en el nav*/
+
+li{color: aliceblue;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.consolas{width: 46%;
+    height: 355px;
+    position:relative; 
+    bottom: 376px;
+    right: -25px;
+}
+
+.playc{width: 400px;
+    height: 200px;
+    position:relative; 
+    bottom: 220px;
+    right: -25px;
+}
+
+.nintendoc{width: 45%;
+    height: 250px;
+    position:relative; 
+    bottom: 265px;
+    right: -25px;
+}
+
+.xboxc{width: 400px;
+    height: 257px;
+    position:relative; 
+    bottom: 270px;
+    right: -25px;
+}    
+
+
+.intro{background-color:rgb(127, 11, 223);
+color: aliceblue;
+padding: 15px;
+font-family: cursive;
+border-style:dashed;
+}
+
+article{background-color:rgb(127, 11, 223);
+    color: aliceblue;
+    padding: 10px;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+h2{background:rgb(127, 11, 223);
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 35px;
+    height: 50px;
+ border-style:dotted}
+
+h3{background:rgb(127, 11, 223);
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+aside{background-color:rgb(127, 11, 223) ;
+      color: aliceblue;
+      padding: 15px;
+      font-family: cursive;
+      font-size: 25px;
+}
+
+h4{color: aliceblue;
+font-family:cursive;
+}
+
+footer{ background-color:rgba(64, 11, 107, 0.89) ;
+      color: aliceblue;
+      padding: 15px;
+      margin: 2%;
+      font-family: cursive;
+      font-size: 20px;
+}
+
+table{border-style:solid;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(32, 54, 178);
+    color:aliceblue;
+    font-size: 23px;
+}
+
+p{background-color:rgb(127, 11, 223);
+    color: aliceblue;
+    padding: 10px;
+    font-family: cursive;
+    font-size: 15px;
+}
